@@ -127,7 +127,7 @@ exports.thumbnail = (event, context) => {
   }
 }
 
-# Upload image Kitten.png from local drive
+# Upload image Kitten.png from local drive.
 # NOTE!  Uploading this image did not complete the task.  I had to upload the image recommended in the task located at https://storage.googleapis.com/cloud-training/gsp315/map.jpg 
 # To successfully get the lab to recognize the bucket has an asset in it.
 
