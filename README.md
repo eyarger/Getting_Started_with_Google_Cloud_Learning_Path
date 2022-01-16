@@ -1,2 +1,3 @@
-# create-and-manage-cloud-resources
-GCP Create a project instance, Create a Kubernetes service cluster, Set up an HTTP load balancer
+Workflows for labs in the
+Getting Started with Google Cloud Learning Path
+on cloudskillsboost.google.com
