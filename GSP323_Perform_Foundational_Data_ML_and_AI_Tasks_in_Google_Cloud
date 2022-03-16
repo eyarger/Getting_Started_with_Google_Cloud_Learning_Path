@@ -233,7 +233,7 @@ Upload the resulted file to Cloud Storage by running:
 
 gsutil cp task4-gvi.result gs://<YOUR-PROJECT_ID>-marking/task4-gvi.result
 
-Replace <YOUR-PROJECT_ID> with your project ID.
+Replace <YOUR-PROJECT_ID> with your project ID and save.
 
 Challenge lab tasks completeed
   
